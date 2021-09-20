@@ -27,6 +27,11 @@ public class TestScript : WW_Log {
 
 ```
 
+<br />
+<br />
+
+# Public Variables
+
 ``` csharp
 // Editor | TRUE or FALSE
 public bool editor;
