@@ -5,8 +5,12 @@
 // Connect file to script or scripts
 // for using use
 
-WW_Log l = new WW_Log();
-l.log( $"{date}" );
+public class TestScript : WW_Log {
+
+    WW_Log l = new WW_Log();
+    l.log( $"{date}" );
+
+}
 
 // OR
 
